@@ -1,5 +1,5 @@
 <?php
-       $data = array("Sailaja","Manoj");
+       $data1 = array("Sailaja","Manoj");
       
        $encdata= array();
         $secret_key = "Villanova";
